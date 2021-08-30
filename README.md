@@ -8,16 +8,15 @@
     > mkdir nome-da-pasta
 
 2. Entre na pasta que você criou 
-    >cd nome-da-pasta
+    > cd nome-da-pasta
 
 3. Inicializar seu repositório GIT
-    > git init  // assim o git vai inicializar como repositorio
+    > git init  
 
 ## Terceiro passo
-> começar os trabalhos... 
 
 ### Monitorando repositório GIT
-> git status // retorna se você modificou algo ou não
+> git status 
 
 ### Conectar o repositório local com o repositório remono no github
 ...
