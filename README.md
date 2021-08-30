@@ -19,12 +19,15 @@
 > git status 
 
 ### Conectar o repositório local com o repositório remono no github
+
 ...
 É necessário adicionar ao git o repositório remoto do github. \ Para isso execute o seguinte comando:
 ...
+
 > git remote add origin https://github.com/lfsg0/aula-inicial-modulo3.git 
 
 '''
-Enviando os dadosdo repositório local para o repositório no github
+Enviando os dados do repositório local para o repositório no github
 ...
+
 > git push origin master 
