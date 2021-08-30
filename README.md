@@ -20,7 +20,7 @@
 
 ### Conectar o repositório local com o repositório remono no github
 ...
-É necessário adicionar ao git o repositório remoto do github, para sso execute o seguinte comando:
+É necessário adicionar ao git o repositório remoto do github. \ Para isso execute o seguinte comando:
 ...
 > git remote add origin https://github.com/lfsg0/aula-inicial-modulo3.git 
 
