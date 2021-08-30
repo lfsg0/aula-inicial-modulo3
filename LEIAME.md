@@ -14,4 +14,7 @@
     > git init  // assim o git vai inicializar como repositorio
 
 ## Terceiro paso
-> começar os trabalhos...     
+> começar os trabalhos... 
+
+### Monitorando repositório GIT
+> git status // retorna se você modificou algo ou não
