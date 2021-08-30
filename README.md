@@ -13,8 +13,19 @@
 3. Inicializar seu repositório GIT
     > git init  // assim o git vai inicializar como repositorio
 
-## Terceiro paso
+## Terceiro passo
 > começar os trabalhos... 
 
 ### Monitorando repositório GIT
 > git status // retorna se você modificou algo ou não
+
+### Conectar o repositório local com o repositório remono no github
+...
+É necessário adicionar ao git o repositório remoto do github, para sso execute o seguinte comando:
+...
+> git remote add origin https://github.com/lfsg0/aula-inicial-modulo3.git 
+
+'''
+Enviando os dadosdo repositório local para o repositório no github
+...
+> git push origin master 
